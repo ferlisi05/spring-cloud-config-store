@@ -8,3 +8,5 @@ vehicle:
  default:
   model: cross over
 duration: summer
+service:
+    greeting: Hello from Membership 

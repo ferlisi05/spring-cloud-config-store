@@ -4,3 +4,5 @@ search:
  canexport: true
  render: false
 duration: all
+service:
+    greeting: Hello from Search QA 

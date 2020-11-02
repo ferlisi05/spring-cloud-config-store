@@ -6,3 +6,5 @@ report:
     color: white
     size: A4
 duration: all
+service:
+    greeting: Hello from Reporting QA

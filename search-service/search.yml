@@ -4,3 +4,5 @@ search:
  canexport: true
  render: false
 duration: summer
+service:
+    greeting: Hello from Search

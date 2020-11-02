@@ -6,3 +6,5 @@ report:
     color: white
     size: A4
 duration: summer
+service:
+    greeting: Hello from Reporting 

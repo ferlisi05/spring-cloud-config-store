@@ -9,8 +9,8 @@
 #          search-paths:
 #           - '*service'
 #
-#service:
-#    greeting: Hello from DEFAULT !!!!  
+service:
+    greeting: Hello from DEFAULT !!!!  
     
     
     

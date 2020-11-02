@@ -3,7 +3,7 @@ member:
         min: 7
         max: 30
         
-price:
+price: 
   discount: 3
   
 vehicle:

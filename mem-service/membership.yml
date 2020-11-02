@@ -1,6 +1,6 @@
-ser:
-    greeting: Hello from Membership 
-    b: asdffdsaadsffsd
+service:
+    b: Hello from Membership !
+
 
 member:
     rent:

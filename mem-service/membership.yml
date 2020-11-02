@@ -10,3 +10,5 @@ vehicle:
 duration: summer
 service:
     greeting: Hello from Membership 
+service:
+    blub: Hello from Membership

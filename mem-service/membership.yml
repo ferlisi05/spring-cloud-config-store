@@ -1,3 +1,7 @@
+service:
+    greeting: Hello from Membership 
+    b: asdffdsaadsffsd
+
 member:
     rent:
         min: 7
@@ -11,6 +15,3 @@ vehicle:
         model: cross over
         duration: summer
     
-service:
-    greeting: Hello from Membership 
-    b: 12345

@@ -1,2 +1,8 @@
-service:
-    greeting: Hello from Report Service 
+report:
+  export:
+    type: pdf
+  border: none
+  page:
+    color: white
+    size: A4
+duration: summer

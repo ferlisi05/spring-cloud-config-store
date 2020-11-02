@@ -1,2 +1,8 @@
-service:
-    greeting: Hello from Report Service DEV
+report:
+  export:
+    type: pdf
+  border: 2
+  page:
+    color: yellow
+    size: A4
+duration: all

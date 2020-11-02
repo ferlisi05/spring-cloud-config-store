@@ -1,2 +1,6 @@
-service:
-    greeting: Hello from Search Service DEV
+search:
+ result:
+  perpage: 10
+ canexport: true
+ render: false
+duration: all

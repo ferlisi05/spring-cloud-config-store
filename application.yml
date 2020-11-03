@@ -4,7 +4,7 @@ service:
 spring:
   datasource:
     driverClassName: com.mysql.jdbc.Driver
-    url: jdbc:mysql://localhost:3306/SAMPLE?createDatabaseIfNotExist=true
+    url: jdbc:mysql://localhost:3306/salva?createDatabaseIfNotExist=true
     username: root
     password: ferlis05
   jpa:
